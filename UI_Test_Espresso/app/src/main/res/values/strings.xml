@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">UI_Test_Espresso</string>
-    <string name="main_activity">Main Activity</string>
-    <string name="second_activity">Second Activity</string>
-
-</resources>
