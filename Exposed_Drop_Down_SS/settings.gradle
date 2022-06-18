@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "Exposed_Drop_Down_SS"
