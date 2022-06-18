@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name = "Room_DB_SS"
